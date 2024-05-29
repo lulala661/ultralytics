@@ -1,0 +1,24 @@
+
+# train: # train images (relative to 'path')  
+#   H:/205/ultralytics/voc/ImageSets/Main/train.txt
+# val: # val images (relative to 'path')  
+#   H:/205/ultralytics/voc/ImageSets/Main/val.txt
+# test: # test images (optional)
+#   H:/205/ultralytics/voc/ImageSets/Main/test.txt
+
+# # number of classes 
+# nc: 1
+
+# # Classes
+# names:
+#   0: ganjing
+
+train: H:\205\ultralytics\yolo\images\train  # train images (relative to 'path') 4 images
+val: H:\205\ultralytics\yolo\images\val  # val images (relative to 'path') 4 images
+test: H:\205\ultralytics\yolo\images\test # test images (optional)
+ 
+# number of classes
+nc: 1
+ 
+# class names
+names: ['ganjing']
