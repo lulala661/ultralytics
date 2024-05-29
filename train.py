@@ -78,6 +78,6 @@ if __name__ == '__main__':
               imgsz=640,
               batch=16,
               save_json=True, # if you need to cal coco metrice
-              project='runs/val',
+              project='runs/test',
               name='exp',
               )
